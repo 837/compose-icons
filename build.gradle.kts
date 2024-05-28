@@ -9,6 +9,7 @@ buildscript {
     dependencies {
         classpath(libs.plugin.maven)
         classpath(libs.plugin.composeMultiplatform)
+        classpath(libs.plugin.composeCompiler)
     }
 }
 

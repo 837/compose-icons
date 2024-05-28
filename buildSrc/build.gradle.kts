@@ -12,4 +12,5 @@ dependencies {
     implementation(libs.plugin.android)
     implementation(libs.plugin.kotlin)
     implementation(libs.plugin.composeMultiplatform)
+    implementation(libs.plugin.composeCompiler)
 }
