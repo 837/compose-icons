@@ -11,7 +11,6 @@ import cafe.adriel.voyager.core.screen.ScreenKey
 import compose.icons.sample.data.IconPackModel
 import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.ui.Modifier
-import compose.icons.sample.components.NavigationHeader
 
 data class IconPackScreen(
     val iconPack: IconPackModel,
